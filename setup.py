@@ -15,7 +15,7 @@ setup(
         'tqdm==4.62.3',
         'colorama==0.4.4',
         'unidecode==1.3.2',
-        'dedupe==2.0.21',
+        'dedupe @ git+https://github.com/anonymous-52200/dedupe.git',
         'jellyfish==0.9.0',
         'doublemetaphone==1.1'
     ],
